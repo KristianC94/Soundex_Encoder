@@ -1,0 +1,42 @@
+Z:\Advanced Software Dev\CMP5216 Assignment 1\SoundexEncoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+Z:\Advanced Software Dev\CMP5216 Assignment 1\SoundexEncoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe
+Z:\Advanced Software Dev\CMP5216 Assignment 1\SoundexEncoder\SoundexEncoder\bin\Debug\SoundexEncoder.pdb
+Z:\Advanced Software Dev\CMP5216 Assignment 1\SoundexEncoder\SoundexEncoder\obj\Debug\SoundexEncoder.csprojResolveAssemblyReference.cache
+Z:\Advanced Software Dev\CMP5216 Assignment 1\SoundexEncoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+Z:\Advanced Software Dev\CMP5216 Assignment 1\SoundexEncoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\SoundexEncoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+F:\Uni\SoundexEncoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+F:\Uni\SoundexEncoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\SoundexEncoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe
+F:\Uni\SoundexEncoder\SoundexEncoder\bin\Debug\SoundexEncoder.pdb
+F:\Uni\SoundexEncoder\SoundexEncoder\obj\Debug\SoundexEncoder.csprojResolveAssemblyReference.cache
+F:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+F:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+F:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe
+F:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.pdb
+F:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.csprojResolveAssemblyReference.cache
+D:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+D:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+D:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+D:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe
+D:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.pdb
+D:\Uni\S14103017 - CMP5216 UG2 Assignment 1\Q3 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.csprojResolveAssemblyReference.cache
+D:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+D:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+D:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.pdb
+F:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.csprojResolveAssemblyReference.cache
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+E:\Uni\S14103017 CMP5216 Assignment 1\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\AdvancedSoftwareExercises\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe.config
+F:\Uni\AdvancedSoftwareExercises\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.exe
+F:\Uni\AdvancedSoftwareExercises\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.pdb
+F:\Uni\AdvancedSoftwareExercises\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.exe
+F:\Uni\AdvancedSoftwareExercises\Ex1 Soundex Encoder\SoundexEncoder\bin\Debug\SoundexEncoder.pdb
+F:\Uni\AdvancedSoftwareExercises\Ex1 Soundex Encoder\SoundexEncoder\obj\Debug\SoundexEncoder.csprojResolveAssemblyReference.cache
